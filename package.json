@@ -1,0 +1,32 @@
+{
+    "name": "com.borismus.webintent",
+    "version": "1.0.3",
+    "description": "JPush for cordova plugin",
+    "cordova": {
+        "id": "jpush-phonegap-plugin",
+        "platforms": [
+            "ios",
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/19317362/cordova-webintent.git"
+    },
+    "keywords": [
+        "webintent",
+        "cordova-android"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0"
+    }],
+    "dependencies": {
+    },
+    "author": "19317362@qq.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/19317362/cordova-webintet/issues"
+    },
+    "homepage": "https://github.com/19317362/cordova-webintet/#readme"
+}
